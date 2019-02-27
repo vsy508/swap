@@ -5,9 +5,7 @@ int main()
 	int a,b;
 	printf("Enter any two number\n");
 	scanf("%d%d",&a,&b);
-
 	swap(a,b);
-
 	return 0;
 }
 void swap(int a,int b)
